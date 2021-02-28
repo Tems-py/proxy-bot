@@ -5,3 +5,6 @@ Discord bot that can scrape proxies and send them to you
 2. Open main.py with text editor
 3. In last line replace TOKEN with your discord bot token
 4. Save and run main.py
+# commands
+There is only one comamnd that sends you HTML proxies
+-proxy
